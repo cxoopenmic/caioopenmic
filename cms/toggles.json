@@ -1,4 +1,8 @@
 {
   "brandLogoUrl": "https://raw.githubusercontent.com/cxoopenmic/caioopenmic/main/assets/logos/CAIO.svg",
-  "brandLandingMode": "logo"
+  "brandLandingMode": "logo",
+  "cities": [
+    "Toronto"
+  ],
+  "countries": []
 }
